@@ -1,3 +1,3 @@
 # Python-Streamlit-web-app-for-ai-deployment
 
-Attach your dataset and allow the python web app the rest
+Attach your dataset and allow the python web app do the rest
